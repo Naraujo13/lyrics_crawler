@@ -1,6 +1,3 @@
-# lyrics_crawler
-
-======
 Lyrics Crawler
 ======
 
