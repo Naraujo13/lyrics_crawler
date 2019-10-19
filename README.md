@@ -6,7 +6,8 @@ Overview
 ========
 
 A crawler made with Scrapy that crawls the lyrics for all songs of a given band.
-Currently the crawler uses data only from [Vagalume](https://www.vagalume.com.br).
+
+Currently the crawler data source is [Vagalume](https://www.vagalume.com.br).
 
 Requirements
 ============
