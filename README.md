@@ -26,4 +26,6 @@ The results will be saved into the data folder, with one tsv with all the song n
 
 Example
 =======
+The bands home page is usually just the band name with dashes `-` instead of spaces.
+
     python vagalume_band_crawler.py https://www.vagalume.com.br/green-day/
